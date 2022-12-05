@@ -1,4 +1,5 @@
 // Exercice all2_1 :	écrire une fonction qui retourne **la position** du plus grand élément d'un tableau.
+
 // Exemple : positionBiggest([4,7,5,5,6]) retourne 1 car le plus grand est dans la case numéro 1
 
 // Exercice all2_2 : écrire une fonction qui fait la somme de tous les éléments d'un tableau.
