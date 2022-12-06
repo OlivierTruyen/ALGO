@@ -43,9 +43,9 @@ console.log("Niveau 1");
 reset();
 p(2);
 p(8);
-print();
+print();              //memory= [2,8]
 
-// Niveau 2
+/*// Niveau 2
 console.log("Niveau 2");
 reset();
 p(2);
@@ -98,3 +98,4 @@ print(); // Doit afficher :
 // 2 -> 3
 // 3 -> 7
 // 4 -> 15
+*/
